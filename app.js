@@ -1,2 +1,0 @@
-/* VI Crackers app logic is embedded in index.html for reliable GitHub Pages deployment.
-   This file is intentionally kept as a companion placeholder. */
