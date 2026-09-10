@@ -1,0 +1,2 @@
+/* VI Crackers product data is embedded in index.html for reliable GitHub Pages deployment.
+   This file is intentionally kept as a companion placeholder. */
